@@ -1,4 +1,4 @@
-# UNP-project-BI-with-power-Bi-power-supply-chain
+# UNP-project-BI-with-power-Bi-power-Captone project 
 Contributed to the Development of Intricate KPIs and Dynamic, Interactive Power BI interfaces
 Used Mutiple Slicers, Bar Charts, Line Charts, Pie Charts in the Dashboard.
 Significantly enhanced data visualization and user-friendliness.
